@@ -108,7 +108,7 @@ python3 shadow-recon.py -d domain.com --all
 ## Demo:
 
 > Simple query to find valid subdomains
-<img src="https://raw.githubusercontent.com/aenoshrajora/Shadow-Exploit/main/demo.png">
+<img src="https://raw.githubusercontent.com/aenoshrajora/Shadow-Recon/refs/heads/main/demo.png">
 
 ## Third part
 
